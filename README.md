@@ -1,6 +1,7 @@
-- Hi 👋, I’m Fatima Zohra Jaber
-- 👀 I’m passionate about programming and technology 💻
+
 # 💫 About Me:
+Hi 👋, I’m Fatima Zohra Jaber<br>
+👀 I’m passionate about programming and technology 💻<br>
 🔭 I’m currently working on SoliCode website remake<br>🌱 I’m currently learning  web development
 
 
