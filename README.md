@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hi 👋, I’m Fatima Zohra Jaber<br>
 👀 I’m passionate about programming and technology 💻<br>
-🔭 I’m currently working on SoliCode website remake<br>🌱 I’m currently learning  web development
+🔭 I’m currently working on ScolaNova<br>🌱 I’m currently learning  web development
 
 
 # 💻 Tech Stack:
