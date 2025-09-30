@@ -1,8 +1,15 @@
 
 # 💫 About Me:
-Hi 👋, I’m Fatima Zohra Jaber<br>
-👀 I’m passionate about programming and technology 💻<br>
-🔭 I’m currently working on ScolaNova<br>🌱 I’m currently learning  web development
+
+ 👋 Hi, I'm Fatima Zohra Jaber
+
+💡 Passionate about programming and technology
+
+🚀 Always curious and motivated to grow as a developer
+
+🎯 Currently focused on learning and building in web development
+
+Let's connect and create something great together! 😊
 
 
 # 💻 Tech Stack:
